@@ -1,0 +1,707 @@
+﻿text,slot,intent
+tăng cho tôi bóng để bàn 4 lên mức 3 tại hội trường, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber O B-roomroom I-roomroom ,smart.home.set.level
+tăng cho tôi led thứ 3 lên mức 4 tại phòng ông bà, O O O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom ,smart.home.increase.level
+chào bạn bạn làm ơn tăng mức độ của tv 4 được không mình cảm thấy hơi tối, O O O O O O O O O B-devicedevice I-devicedevice O O O O O O O ,smart.home.increase.level
+chào bạn bạn làm ơn tăng mức độ của led 4 được không mình cảm thấy hơi tối, O O O O O O O O O B-devicedevice I-devicedevice O O O O O O O ,smart.home.increase.level
+chào bạn bạn làm ơn tăng mức độ của đèn compact 2 được không mình cảm thấy hơi tối, O O O O O O O O O B-devicedevice I-devicedevice I-devicedevice O O O O O O O ,smart.home.increase.level
+tăng device bòng hắt trần thứ 2, O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+tăng bóng tuýp 2 lên 1 ở phòng thờ 3, O B-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom ,smart.home.increase.level
+device đèn để bàn, O B-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+device đèn downlight 4, O B-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+tăng lên bóng trần 2 lên số 3, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.increase.level
+bật bóng trần lên số 4, B-commandcommand B-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.set.level
+tăng đèn thứ 4 lên 1 ở phòng em nhỏ, O B-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom ,smart.home.set.level
+em bật ngay cho tôi nóng lạnh ở phòng em bé lên mức 3 đi, O O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O B-sysnumbersysnumber O ,smart.home.set.level
+em bật ngay cho tôi bóng tròn thứ 1 ở phòng trẻ em lên mức 3 đi, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O B-sysnumbersysnumber O ,smart.home.increase.level
+tăng device bóng ốp tường, O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+device đèn bếp 2, O B-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+device âm trần thứ 2, O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+tăng quạt treo tường 3 lên 1 ở phòng hội nghị, O B-devicedevice I-devicedevice I-devicedevice B-sysnumbersysnumber O O O B-roomroom I-roomroom I-roomroom ,smart.home.increase.level
+tăng công tắc thứ 2 2 lên 1 ở phòng bếp, O B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-sysnumbersysnumber O O O B-roomroom I-roomroom ,smart.home.increase.level
+em bật ngay cho tôi đèn tiết kiệm điện thứ 2 ở phòng tiếp đón 5 lên mức 3 đi, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O O B-sysnumbersysnumber O ,smart.home.set.level
+tăng quạt trần lên 5 ở phòng em bé 5, O B-devicedevice I-devicedevice O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom I-roomroom ,smart.home.increase.level
+tăng cho tôi đèn hắt trần thứ 4 lên mức 4 tại cổng, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom ,smart.home.increase.level
+tăng lên bóng compact 2 lên số 5, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.increase.level
+tăng đèn lồng thứ 1 lên 1 ở phòng tiếp đón, O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom ,smart.home.increase.level
+tăng ốp trần 4 lên 1 ở phòng học, O B-devicedevice I-devicedevice B-sysnumbersysnumber O O O B-roomroom I-roomroom ,smart.home.increase.level
+tăng device chiết áp 2, O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+chào bạn bạn làm ơn tăng mức độ của quạt thông gió 1 được không mình cảm thấy hơi tối, O O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O O O ,smart.home.increase.level
+tăng âm thanh đa vùng 3 1 lên 1 ở phòng giặt ủi 5, O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice B-sysnumbersysnumber O O O B-roomroom I-roomroom I-roomroom I-roomroom ,smart.home.increase.level
+tăng device đèn rọi 4, O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+tăng đèn làm việc lên 4 ở hè sau 1, O B-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom ,smart.home.increase.level
+bật màn cửa đơn 1 lên số 3, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.increase.level
+em bật ngay cho tôi đèn tiết kiệm điện ở cơ quan lên mức 1 đi, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O B-sysnumbersysnumber O ,smart.home.increase.level
+tăng cho tôi bóng thả 2 lên mức 2 tại đầu hè 1, O O O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom ,smart.home.increase.level
+tăng đến đèn tuýp 3 lên số 5, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.increase.level
+tăng nóng lạnh thứ 1 4 lên 1 ở cổng, O B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-sysnumbersysnumber O O O B-roomroom ,smart.home.increase.level
+em bật ngay cho tôi tv thứ 3 ở phòng họp gia đình 3 lên mức 2 đi, O O O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom I-roomroom O O B-sysnumbersysnumber O ,smart.home.increase.level
+chào bạn bạn làm ơn tăng mức độ của đèn hắt được không mình cảm thấy hơi tối, O O O O O O O O O B-devicedevice I-devicedevice O O O O O O O ,smart.home.increase.level
+bạn cho mình biết bóng trụ cổng thứ 1 ở garage đang bật hay tắt được không, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom O O O O O O ,smart.home.check.status
+bạn kiểm tra cho tôi quạt thông gió 4 ở nhà bếp nhé, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O ,smart.home.check.status
+trợ lý gầy béo kiểm tra màn cửa đơn thứ 4 tại phòng phòng hội thảo, O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-roomroom I-roomroom I-roomroom ,smart.home.check.status
+bạn kiểm tra cho tôi màn cuốn thứ 4 ở phòng dành cho nữ nhé, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O ,smart.home.check.status
+kiểm tra trạng thái bóng vườn 1 tại ban công 2, O O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom ,smart.home.check.status
+bạn kiểm tra cho tôi bóng led thứ 4 ở phòng họp gia đình 3 nhé, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom I-roomroom O ,smart.home.check.status
+đại ca đang cần kiểm tra cái bóng âm trần thứ 1 tiểu đệ làm được không, O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O ,smart.home.check.status
+báo cáo tivi thứ 1 hội trường 1 giúp tôi nhé, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom O O O ,smart.home.check.status
+tôi muốn xem thiết bị bóng rọi thứ 2 ở phòng ngủ con 5, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom ,smart.home.check.status
+kiểm tra giúp tôi phòng ngủ bố mẹ 3 và loa đài nhé, O O O O B-roomroom I-roomroom I-roomroom I-roomroom I-roomroom O B-devicedevice I-devicedevice O ,smart.home.check.status
+bạn kiểm tra cho mình cảnh thứ 3 còn hoạt động không với ạ, O O O O O B-devicedevice I-devicedevice I-devicedevice O O O O O O ,smart.home.check.status
+kiểm tra giúp tôi tiền sảnh và đèn trần 2 nhé, O O O O B-roomroom I-roomroom O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.check.status
+kiểm tra phòng tắm xông hơi và đèn downlight thứ 3 nhé, O O B-roomroom I-roomroom I-roomroom I-roomroom O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.check.status
+giúp tôi kiểm tra trạng thái đèn hắt thứ 4 tại hè sau, O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom ,smart.home.check.status
+bạn kiểm tra cho tôi đèn hắt 2 ở phòng nghiên cứu nhé, O O O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O ,smart.home.check.status
+kiểm tra giúp tôi phòng giám đốc 1 và đèn hoa thứ 4 nhé, O O O O B-roomroom I-roomroom I-roomroom I-roomroom O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.check.status
+tôi muốn xem thiết bị âm trần ở hè 5, O O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom ,smart.home.check.status
+bạn kiểm tra cho mình bóng tường thứ 1 còn hoạt động không với ạ, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O O ,smart.home.check.status
+kiểm tra phòng ngủ các con 2 và đèn học 1 nhé, O O B-roomroom I-roomroom I-roomroom I-roomroom I-roomroom O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.check.status
+giúp tôi kiểm tra trạng thái hắt trần 3 tại phòng học 3, O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom ,smart.home.check.status
+trợ lý gầy béo kiểm tra rèm cửa đôi tại phòng đầu hè 5, O O O O O O B-devicedevice I-devicedevice I-devicedevice O O B-roomroom I-roomroom I-roomroom ,smart.home.check.status
+tôi muốn xem thiết bị bóng ốp trần thứ 3 ở nhà vệ sinh 5, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom ,smart.home.check.status
+bạn kiểm tra cho tôi vô tuyến ở phòng sách nhé, O O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom O ,smart.home.check.status
+kiểm tra sân 3 và bóng làm việc thứ 2 nhé, O O B-roomroom I-roomroom O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.check.status
+đại ca đang cần kiểm tra cái đèn cây thứ 2 tiểu đệ làm được không, O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O ,smart.home.check.status
+đèn tròn đang ở đang bật hoặc tắt nào, B-devicedevice I-devicedevice O O B-statusstatus I-statusstatus I-statusstatus I-statusstatus O ,smart.home.check.status
+bạn cho mình biết van tưới thứ 2 ở phòng làm việc đang bật hay tắt được không, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O O O O ,smart.home.check.status
+kiểm tra trạng thái đèn hắt tại phòng ủi 2, O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom ,smart.home.check.status
+bạn kiểm tra cho mình bóng tuýp còn hoạt động không với ạ, O O O O O B-devicedevice I-devicedevice O O O O O O ,smart.home.check.status
+kiểm tra giúp tôi phòng vệ sinh và bóng compact 4 nhé, O O O O B-roomroom I-roomroom I-roomroom O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.check.status
+trợ lý gầy béo kiểm tra đèn hoa tại phòng ban công, O O O O O O B-devicedevice I-devicedevice O O B-roomroom I-roomroom ,smart.home.check.status
+cập nhật chiết áp phòng gia đình 2 giúp tôi nhé, B-commandcommand I-commandcommand B-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom I-roomroom O O O ,smart.home.check.status
+bóng chùm đang ở đang tắt hay bật nào, B-devicedevice I-devicedevice O O B-statusstatus I-statusstatus I-statusstatus I-statusstatus O ,smart.home.check.status
+bao nhiêu đèn màu sắc phòng ăn sáng 2 giúp tôi nhé, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom I-roomroom O O O ,smart.home.check.status
+giúp tôi kiểm tra trạng thái bóng ốp tường 3 tại phòng ông chủ, O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom ,smart.home.check.status
+trợ lý gầy béo kiểm tra bóng rủ thứ 3 tại phòng phòng thu âm, O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-roomroom I-roomroom I-roomroom ,smart.home.check.status
+rèm cửa đôi thứ 3 đang ở đang đóng hoặc mở nào, B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-statusstatus I-statusstatus I-statusstatus I-statusstatus O ,smart.home.check.status
+đại ca đang cần kiểm tra cái âm trần tiểu đệ làm được không, O O O O O O O B-devicedevice I-devicedevice O O O O O ,smart.home.check.status
+giúp tôi kiểm tra trạng thái led thứ 2 tại phòng xông hơi 5, O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom ,smart.home.check.status
+kiểm tra sân 5 và bóng trần nhé, O O B-roomroom I-roomroom O B-devicedevice I-devicedevice O ,smart.home.check.status
+kiểm tra giúp tôi phòng ngủ bố mẹ và bóng tuýp 3 nhé, O O O O B-roomroom I-roomroom I-roomroom I-roomroom O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.check.status
+kiểm tra trạng thái đèn huỳnh quang 1 tại phòng ngủ các con 3, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom I-roomroom ,smart.home.check.status
+giúp tôi kiểm tra trạng thái flash thứ 2 tại phòng chung, O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom ,smart.home.check.status
+bạn cho mình biết đèn kiểng 2 ở phòng nghỉ ngơi 5 đang bật hay tắt được không, O O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O O O O O O ,smart.home.check.status
+bạn kiểm tra cho mình đèn cổng 1 còn hoạt động không với ạ, O O O O O B-devicedevice I-devicedevice I-devicedevice O O O O O O ,smart.home.check.status
+kiểm tra trạng thái đèn cây tại phòng bố mẹ, O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom ,smart.home.check.status
+bạn cho mình biết bóng huỳnh quang thứ 3 ở phòng ăn tối 4 đang bật hay tắt được không, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O O O O O O ,smart.home.check.status
+đại ca đang cần kiểm tra cái đèn lồng 4 tiểu đệ làm được không, O O O O O O O B-devicedevice I-devicedevice I-devicedevice O O O O O ,smart.home.check.status
+kiểm tra trạng thái bóng làm việc thứ 3 tại phòng nghỉ ngơi, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom ,smart.home.check.status
+đèn cảnh 4 đang ở mở hoặc tắt thế, B-devicedevice I-devicedevice I-devicedevice O O B-statusstatus I-statusstatus I-statusstatus O ,smart.home.check.status
+bạn kiểm tra cho mình loa đài 3 còn hoạt động không với ạ, O O O O O B-devicedevice I-devicedevice I-devicedevice O O O O O O ,smart.home.check.status
+tôi muốn xem thiết bị bóng hắt tường ở phòng ăn sáng 2, O O O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom ,smart.home.check.status
+đại ca đang cần kiểm tra cái đèn thả thứ 3 tiểu đệ làm được không, O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O ,smart.home.check.status
+kiểm tra phòng thí nghiệm 4 và đèn chùm nhé, O O B-roomroom I-roomroom I-roomroom I-roomroom O B-devicedevice I-devicedevice O ,smart.home.check.status
+báo cáo bóng hoa 1 thư viện 5 giúp tôi nhé, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom O O O ,smart.home.check.status
+trợ lý gầy béo kiểm tra màn cửa thứ 3 tại phòng phòng trẻ con, O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-roomroom I-roomroom I-roomroom ,smart.home.check.status
+bạn cho mình biết đèn hắt 1 ở phòng làm việc đang bật hay tắt được không, O O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O O O O ,smart.home.check.status
+giảm giúp tôi rèm cửa trong phòng ngủ bố mẹ xuống 1 phần trăm với, O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.decrease.percentage
+giảm cho mình đèn kiểng thứ 3 xuống 21 phần trăm nhé, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.decrease.percentage
+hãy giảm tvs ở phòng giám đốc xuống 9 phần trăm, O O B-devicedevice O B-roomroom I-roomroom I-roomroom O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+giảm giúp tôi đèn ốp tường 1 trong công ty 2 xuống 23 phần trăm với, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.decrease.percentage
+giảm thiết bị mành 3, O O O B-devicedevice I-devicedevice ,smart.home.decrease.percentage
+giảm cho mình bóng âm trần xuống 22 phần trăm nhé, O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.decrease.percentage
+hãy giảm loa 2 ở wc 3 xuống 8 phần trăm, O O B-devicedevice I-devicedevice O B-roomroom I-roomroom O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+giảm cho mình quạt hút mùi thứ 1 xuống 23 phần trăm nhé, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.decrease.percentage
+bóng hoa thứ 1 giảm bớt xuống 47 phần trăm, B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-commandcommand I-commandcommand O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+giảm đèn hắt trần thứ 4 ở gara 24 phần trăm, O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+hãy giảm bóng hoa 3 ở cầu thang 3 xuống 22 phần trăm, O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+hộ tôi giảm mành thứ 3 xuống 22 phần trăm, O O B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+hộ tôi hạ thấp bóng tường xuống 1 phần trăm, O O B-commandcommand I-commandcommand B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+giảm bóng trang trí hộ với, O B-devicedevice I-devicedevice I-devicedevice O O ,smart.home.decrease.percentage
+giảm thiết bị flash, O O O B-devicedevice ,smart.home.decrease.percentage
+giảm đèn đứng 4 hộ với, O B-devicedevice I-devicedevice I-devicedevice O O ,smart.home.decrease.percentage
+giảm đèn flash 3 ở phòng nghỉ 27 phần trăm, O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+giảm giúp tôi bóng trụ cổng 4 trong phòng bố mẹ 5 xuống 22 phần trăm với, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.decrease.percentage
+giảm đèn cổng 4 ở phòng ngủ 29 phần trăm, O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+màn cửa đơn 2 hạ xuống xuống 9 phần trăm, B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-commandcommand I-commandcommand O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+giảm cho mình âm trần 3 xuống 4 phần trăm nhé, O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.decrease.percentage
+giảm màn cửa 1 ở phòng thu 3 phần trăm, O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+giảm giúp tôi bóng trần thứ 3 trong phòng đọc 3 xuống 5 phần trăm với, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.decrease.percentage
+giảm ốp trần hộ với, O B-devicedevice I-devicedevice O O ,smart.home.decrease.level
+giảm thiết bị đèn sân 4, O O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.decrease.percentage
+hộ tôi hạ xuống bóng hắt tường xuống 39 phần trăm, O O B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+downlight thứ 1 giảm bớt xuống 2 phần trăm, B-devicedevice I-devicedevice I-devicedevice B-commandcommand I-commandcommand O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+giảm thiết bị đèn màu thứ 2, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.decrease.percentage
+giảm đèn sưởi ở phòng ăn sáng 4 3 phần trăm, O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+giảm cho mình đèn sưởi thứ 2 xuống 1 phần trăm, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+giảm cho mình đèn bếp 1 xuống 3 phần trăm, O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+cửa cuốn 4 hạ xuống xuống 3 phần trăm, B-devicedevice I-devicedevice I-devicedevice B-commandcommand I-commandcommand O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+giảm giúp tôi bình nước nóng 4 trong phòng trẻ con xuống 14 phần trăm với, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.decrease.percentage
+giảm cho mình đèn kiểng xuống 14 phần trăm nhé, O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.decrease.percentage
+giảm đèn flash 3 hộ với, O B-devicedevice I-devicedevice I-devicedevice O O ,smart.home.decrease.percentage
+giảm bóng tròn hộ với, O B-devicedevice I-devicedevice O O ,smart.home.decrease.percentage
+hãy giảm hắt trần ở phòng xông hơi 5 xuống 8 phần trăm, O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+hãy giảm tvs ở phòng ủi 2 xuống 12 phần trăm, O O B-devicedevice O B-roomroom I-roomroom I-roomroom O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+hộ tôi hạ mành cuốn xuống 36 phần trăm, O O B-commandcommand B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+giảm cho mình bóng tròn thứ 1 xuống 15 phần trăm, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+giảm cho mình đèn compact 2 xuống 12 phần trăm, O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+bòng hắt trần giảm xuống 38 phần trăm, B-devicedevice I-devicedevice I-devicedevice B-commandcommand O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+giảm cho mình kịch bản thứ 4 xuống 16 phần trăm, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+hạ xuống đèn còn số 2 thôi nhá, B-commandcommand I-commandcommand B-devicedevice O O B-final-valuesysnumber O O ,smart.home.set.level
+giảm tivi xuống mức 2 hộ mình nhé, O B-devicedevice O O B-sysnumbersysnumber O O O ,smart.home.decrease.level
+làm ơn hạ rèm đơn 4 gara 2 đi 2 mức, O O B-commandcommand B-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom O B-change-valuesysnumber O ,smart.home.decrease.level
+giảm cho tớ hắt trần thứ 3 xuống mức 5 nhé, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O ,smart.home.decrease.level
+giảm đèn rọi còn số 1 thôi nhá, B-commandcommand B-devicedevice I-devicedevice O O B-final-valuesysnumber O O ,smart.home.set.level
+giảm cho tớ bóng sưởi 3 xuống mức 2 nhé, O O O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O ,smart.home.decrease.level
+giảm đi đèn kiểng 4 phòng con xuống số 2 nhé, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom O O B-final-valuesysnumber O ,smart.home.decrease.level
+bạn có thể giảm độ sáng ở đèn thả thứ 3 về mức 5 ở phòng thu âm 5 được không, O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom I-roomroom O O ,smart.home.decrease.level
+làm ơn hạ xuống bình nóng lạnh 1 phòng họp gia đình đi 2 mức, O O B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom I-roomroom O B-change-valuesysnumber O ,smart.home.decrease.level
+làm ơn hạ bóng hắt thứ 4 phòng thay đồ 4 đi 1 mức, O O B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom I-roomroom O B-change-valuesysnumber O ,smart.home.decrease.level
+giảm cho tớ huỳnh quang xuống mức 3 nhé, O O O B-devicedevice I-devicedevice O O B-sysnumbersysnumber O ,smart.home.decrease.level
+hạ đèn quảng cáo 4 phòng nghỉ ngơi 5 xuống số 1 nhé, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber O ,smart.home.decrease.level
+giảm hộ tôi cái màn cửa đôi xuống 5 cái bạn ơi chói mắt quá, O O O O B-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O O O O O O ,smart.home.decrease.level
+giảm bóng thả xuống mức 4 hộ mình nhé, O B-devicedevice I-devicedevice O O B-sysnumbersysnumber O O O ,smart.home.decrease.level
+hạ xuống đèn sưởi còn số 1 thôi nhá, B-commandcommand I-commandcommand B-devicedevice I-devicedevice O O B-final-valuesysnumber O O ,smart.home.set.level
+bạn có thể giảm độ sáng ở đèn cây về mức 5 ở mặt tiền được không, O O O O O O O B-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom I-roomroom O O ,smart.home.decrease.level
+giảm rèm xuống mức 1 hộ mình nhé, O B-devicedevice O O B-sysnumbersysnumber O O O ,smart.home.decrease.level
+hạ độ sáng hắt trần 1 xuống mức 2, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.set.level
+giảm đèn để bàn thứ 1 xuống mức 2 hộ mình nhé, O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O O O ,smart.home.decrease.level
+giảm đèn sợi đốt thứ 3 cơ quan 3 xuống số 1 nhé, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber O ,smart.home.set.level
+giảm đi bóng tường thứ 3 còn số 1 thôi nhá, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber O O ,smart.home.set.level
+giảm cho tớ bóng tiết kiệm điện 3 xuống mức 5 nhé, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O ,smart.home.set.level
+giảm hộ tôi cái bóng âm trần 2 xuống 1 cái bạn ơi chói mắt quá, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O O O O O O ,smart.home.decrease.level
+bạn có thể giảm độ sáng ở ốp trần 3 về mức 4 ở phòng ngủ các con 5 được không, O O O O O O O B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber O B-roomroom I-roomroom I-roomroom I-roomroom I-roomroom O O ,smart.home.set.level
+giảm cho tớ máy lạnh xuống mức 1 nhé, O O O B-devicedevice I-devicedevice O O B-sysnumbersysnumber O ,smart.home.decrease.level
+bạn có thể giảm độ sáng ở chiết áp thứ 4 đi 3 mức ở phòng họp gia đình 5 được không, O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O O B-roomroom I-roomroom I-roomroom I-roomroom I-roomroom O O ,smart.home.decrease.level
+giảm hộ tôi cái đèn hoa xuống 1 cái bạn ơi chói mắt quá, O O O O B-devicedevice I-devicedevice O B-sysnumbersysnumber O O O O O O ,smart.home.decrease.level
+giảm bóng làm việc xuống mức 2 hộ mình nhé, O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O O O ,smart.home.decrease.level
+làm ơn giảm bớt đèn tiết kiệm điện thứ 4 sảnh 1 đi 1 mức, O O B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom O B-change-valuesysnumber O ,smart.home.decrease.level
+bạn có thể giảm độ sáng ở đèn sắc màu thứ 2 về mức 5 ở phòng trẻ con 5 được không, O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom I-roomroom O O ,smart.home.decrease.level
+làm ơn giảm đi rgb thứ 2 nhà giữ đồ đi 3 mức, O O B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom O B-change-valuesysnumber O ,smart.home.decrease.level
+giảm hộ tôi cái huỳnh quang xuống 2 cái bạn ơi chói mắt quá, O O O O B-devicedevice I-devicedevice O B-sysnumbersysnumber O O O O O O ,smart.home.decrease.level
+giảm bớt độ sáng hắt tường xuống mức 3, B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.decrease.level
+giảm hộ tôi cái bóng âm trần thứ 1 xuống 5 cái bạn ơi chói mắt quá, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O O O O O O ,smart.home.decrease.level
+hạ thấp độ sáng đèn xuống mức 1, B-commandcommand I-commandcommand O O B-devicedevice O O B-final-valuesysnumber ,smart.home.decrease.level
+hạ đèn vườn thứ 3 phòng học xuống số 3 nhé, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom O O B-final-valuesysnumber O ,smart.home.set.level
+tăng hộ mình bóng huỳnh quang thứ 4 lên với, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O ,smart.home.increase.percentage
+tăng đến độ sáng đèn để bàn 4 lên 71 phần trăm, B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.increase.percentage
+mình cần tăng mức cột đèn thứ 3, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+tăng hộ mình đèn lồng 1 lên với, O O O B-devicedevice I-devicedevice I-devicedevice O O ,smart.home.increase.percentage
+tăng lên độ sáng bóng compact lên 65 phần trăm, B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.increase.percentage
+giúp mình tăng âm lượng bình nước nóng lên 19 phần trăm mình thấy hơi nhỏ, O O O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O O O O ,smart.home.increase.percentage
+em ơi tăng giúp anh mành cuốn lên 3 phần trăm nhé, O O O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+mình cần tăng mức hắt trần, O O O O B-devicedevice I-devicedevice ,smart.home.increase.level
+cột đèn tăng 18 phần trăm, B-devicedevice I-devicedevice B-commandcommand B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.increase.percentage
+tăng đến bòng hắt trần lên 66 phần trăm, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.increase.percentage
+tăng đến độ sáng mành lên 72 phần trăm, B-commandcommand I-commandcommand O O B-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.increase.percentage
+tăng đèn bóng rọi lên 70 phần trăm, B-commandcommand I-commandcommand B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.increase.percentage
+em ơi tăng giúp anh đèn cảnh 2 thêm 8 phần trăm nhé, O O O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+tăng hộ mình đèn hắt tường lên với, O O O B-devicedevice I-devicedevice I-devicedevice O O ,smart.home.increase.percentage
+giúp mình tăng âm lượng hắt tường lên 21 phần trăm mình thấy hơi nhỏ, O O O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O O O O ,smart.home.increase.percentage
+em ơi tăng giúp anh đèn vườn 2 lên 27 phần trăm nhé, O O O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+giúp mình tăng âm lượng đèn compact thứ 3 lên 9 phần trăm mình thấy hơi nhỏ, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O O O O ,smart.home.increase.percentage
+tăng thêm bóng led lên 94 phần trăm, B-commandcommand I-commandcommand B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.increase.percentage
+đèn bàn tăng lên 24 phần trăm, B-devicedevice I-devicedevice B-commandcommand I-commandcommand B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.increase.percentage
+tăng hộ mình bóng ốp tường 3 lên với, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O ,smart.home.increase.percentage
+tôi muốn bật âm thanh đa vùng 2 lên mức 19 phần trăm tại phòng thiền tầng trệt 2, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O B-roomroom I-roomroom B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber ,smart.home.increase.percentage
+tăng bóng vườn 3 lên 59 phần trăm, B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.increase.percentage
+giúp mình tăng âm lượng đèn vườn 1 lên 4 phần trăm mình thấy hơi nhỏ, O O O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O O O O ,smart.home.increase.percentage
+mình cần tăng mức đèn downlight 3, O O O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+tôi muốn bật bóng tuýp lên thêm 16 phần trăm tại khách 5 lầu thượng 1, O O O B-devicedevice I-devicedevice O O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O B-roomroom I-roomroom B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber ,smart.home.increase.percentage
+mình cần tăng mức nóng lạnh, O O O O B-devicedevice I-devicedevice ,smart.home.increase.level
+bóng trụ cổng 2 tăng đến 25 phần trăm, B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-commandcommand I-commandcommand B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.increase.percentage
+ti vi tăng 25 phần trăm, B-devicedevice I-devicedevice B-commandcommand B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.increase.percentage
+đèn màu 4 tăng 2 phần trăm, B-devicedevice I-devicedevice I-devicedevice B-commandcommand B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.increase.percentage
+tăng thêm bóng ốp tường lên 67 phần trăm, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.increase.percentage
+giúp mình tăng âm lượng mành lên 29 phần trăm mình thấy hơi nhỏ, O O O O O B-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O O O O ,smart.home.increase.percentage
+em ơi tăng giúp anh đèn sân 4 lên 1 phần trăm nhé, O O O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+mình cần tăng mức điện 3, O O O O B-devicedevice I-devicedevice ,smart.home.increase.level
+em ơi tăng giúp anh quạt hút mùi 3 lên 26 phần trăm nhé, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+tôi muốn bật flash lên mức 23 phần trăm tại khách 1 tầng thượng 7, O O O B-devicedevice O O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O B-roomroom I-roomroom B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber ,smart.home.increase.percentage
+tăng lên độ sáng bòng hắt trần thứ 1 lên 94 phần trăm, B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.increase.percentage
+tôi muốn tăng đèn hắt trần 1 lên thêm 3 phần trăm tại phòng thiền lầu trệt 10, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O B-roomroom I-roomroom B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber ,smart.home.increase.percentage
+tăng lên độ sáng downlight thứ 1 lên 73 phần trăm, B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.increase.percentage
+tăng hộ mình rèm cửa 1 lên với, O O O B-devicedevice I-devicedevice I-devicedevice O O ,smart.home.increase.percentage
+đặt đèn kiểng số 5, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.device.onoff
+bật giùm tôi động cơ ở mức 2 thôi, B-commandcommand O O B-devicedevice I-devicedevice O O B-final-valuesysnumber O ,smart.home.set.level
+chào bạn cho mình hỏi là mình muốn bật điều hòa ở mức 5 thì làm như nào nhỉ, O O O O O O O O B-commandcommand B-devicedevice I-devicedevice O O B-sysnumbersysnumber O O O O O ,smart.home.set.level
+chào bạn cho mình hỏi là mình muốn cài đặt bóng downlight ở mức 5 thì làm như nào nhỉ, O O O O O O O O B-commandcommand I-commandcommand B-devicedevice I-devicedevice O O B-sysnumbersysnumber O O O O O ,smart.home.set.level
+bật tất cả bóng chùm 3 mức 1, B-commandcommand B-allall I-allall B-devicedevice I-devicedevice I-devicedevice O B-final-valuesysnumber ,smart.home.set.level
+thay mỗi đèn tường mức 2, B-commandcommand B-allall B-devicedevice I-devicedevice O B-final-valuesysnumber ,smart.home.set.level
+chào bạn cho mình hỏi là mình muốn đặt đèn ngủ 2 ở mức 5 thì làm như nào nhỉ, O O O O O O O O B-commandcommand B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O O O O O ,smart.home.set.level
+điều chỉnh giùm cái rgb 3 cái coi, B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice O O ,smart.home.set.level
+bật bóng ngủ thứ 1 ngoài hành lang mức 5, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O B-final-valuesysnumber ,smart.home.set.level
+thay bóng tường 4 ngoài cửa hàng 4 mức 2, B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O B-final-valuesysnumber ,smart.home.set.level
+thay toàn bộ bóng thả thứ 4 mức 1, B-commandcommand B-allall I-allall B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesysnumber ,smart.home.set.level
+chỉnh đèn sưởi thứ 3 ngoài phòng ngủ các con mức 3, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O B-final-valuesysnumber ,smart.home.set.level
+thay mỗi bóng vách thứ 4 mức 4, B-commandcommand B-allall B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesysnumber ,smart.home.set.level
+chỉnh giùm tôi màn cửa đôi ở mức 3 thôi, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber O ,smart.home.set.level
+thay đổi giùm cái đèn hắt thứ 1 cái coi, B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O ,smart.home.set.level
+chào bạn cho mình hỏi là mình muốn thay tivi ở mức 3 thì làm như nào nhỉ, O O O O O O O O B-commandcommand B-devicedevice O O B-sysnumbersysnumber O O O O O ,smart.home.set.level
+bật giùm tôi bóng ngủ thứ 3 ở mức 3 thôi, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber O ,smart.home.set.level
+bật giùm cái đèn để bàn 1 cái coi, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O ,smart.home.device.onoff
+chuyển hộ mình thiết bị được không ạ, B-commandcommand O O O O O O O ,smart.home.set.level
+chào bạn cho mình hỏi là mình muốn bật đèn rọi ở mức 5 thì làm như nào nhỉ, O O O O O O O O B-commandcommand B-devicedevice I-devicedevice O O B-sysnumbersysnumber O O O O O ,smart.home.device.onoff
+thay toàn bộ âm trần thứ 3 mức 5, B-commandcommand B-allall I-allall B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesysnumber ,smart.home.set.level
+điều chỉnh giùm tôi bóng ngủ 2 ở mức 5 thôi, B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber O ,smart.home.set.level
+bật ốp tường thứ 3 số 2, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesysnumber ,smart.home.set.level
+thay rgb 1 ngoài cầu thang mức 4, B-commandcommand B-devicedevice I-devicedevice O B-roomroom I-roomroom O B-final-valuesysnumber ,smart.home.set.level
+đặt công tắc ngoài phòng tắm xông hơi mức 3, B-commandcommand B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O B-final-valuesysnumber ,smart.home.set.level
+đặt giùm tôi bóng hắt thứ 3 ở mức 4 thôi, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber O ,smart.home.set.level
+thay đèn để bàn thứ 1 vườn sau màu màu hồng, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom O B-colorcolor I-colorcolor ,smart.home.set.color
+hộ mình đổi màu bóng tròn 2 sang màu hồng, O O B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O O B-colorcolor ,smart.home.set.color
+bạn làm ơn thay kích hoạt màu sắc rèm cửa đôi thứ 4 giúp mình, O O O O B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O ,smart.home.set.color
+khởi chạy đèn bếp thứ 3 sang màu vàng ở phòng thí nghiệm tầng thượng 7, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O B-roomroom I-roomroom I-roomroom B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber ,smart.home.set.color
+đổi màu bóng tiết kiệm điện 1 sang màu nâu ở nhà để xe lầu thượng 2, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O B-roomroom I-roomroom I-roomroom B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber ,smart.home.set.color
+đổi nút nhấn thứ 4 sang xanh lá ở hiên sau 5 tầng trệt 4, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O B-roomroom I-roomroom I-roomroom B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber ,smart.home.set.color
+khởi chạy đèn rủ thứ 3 phòng nghỉ 3 màu đen, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom O B-colorcolor ,smart.home.set.color
+thay đổi tv sang màu xanh nhé, O O B-devicedevice O B-colorcolor I-colorcolor O ,smart.home.set.color
+bạn làm ơn thay chuyển màu sắc đèn sợi đốt thứ 4 giúp mình, O O O O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O ,smart.home.set.color
+thay đổi bóng ngủ 3 sang màu cam nhé, O O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O ,smart.home.set.color
+trợ lí ảo có thể giúp mình cài đặt màu sắc của đèn trang trí trong phòng ăn được không, O O O O O O O B-commandcommand I-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O ,smart.home.set.color
+đặt hộ anh đèn làm việc sang violet với, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor O ,smart.home.set.color
+giúp mình thay đổi màu sắc của điện 3 nha, O O O O O O O B-devicedevice I-devicedevice O ,smart.home.set.color
+giúp mình thay đổi màu sắc của chiết áp 2 nha, O O O O O O O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.set.color
+chỉnh hộ anh đèn flash sang màu trắng với, B-commandcommand O O B-devicedevice I-devicedevice O B-colorcolor I-colorcolor O ,smart.home.set.color
+trợ lí ảo có thể giúp mình chuyển màu sắc của đèn rọi 3 trong phòng giặt là được không, O O O O O O O B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O ,smart.home.set.color
+bắt đầu bóng kiểng phòng ăn tối 4 màu tía, B-commandcommand I-commandcommand B-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom I-roomroom B-colorcolor I-colorcolor ,smart.home.set.color
+bạn làm ơn thay command màu sắc flash thứ 3 giúp mình, O O O O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O O ,smart.home.set.color
+đổi màu hộ anh đèn trụ cổng sang xanh nước biển với, B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor I-colorcolor O ,smart.home.set.color
+thiết lập bóng tường hiên sau màu màu xanh lam, B-commandcommand I-commandcommand B-devicedevice I-devicedevice B-roomroom I-roomroom O B-colorcolor I-colorcolor I-colorcolor ,smart.home.set.color
+thay đổi đèn bếp thứ 4 phòng dành cho nam 3 màu lục, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom I-roomroom I-roomroom O B-colorcolor ,smart.home.set.color
+giúp mình thay đổi màu sắc của quạt trần nha, O O O O O O O B-devicedevice I-devicedevice O ,smart.home.set.color
+hộ mình thay flash 1 sang màu lục, O O B-commandcommand B-devicedevice I-devicedevice O O B-colorcolor ,smart.home.set.color
+giúp mình thay đổi màu sắc của cột đèn nha, O O O O O O O B-devicedevice I-devicedevice O ,smart.home.set.color
+thay đổi bóng thả sang màu tía nhé, O O B-devicedevice I-devicedevice O B-colorcolor I-colorcolor O ,smart.home.set.color
+trợ lí ảo có thể giúp mình chuyển màu sắc của quạt treo tường trong sân sau 3 được không, O O O O O O O B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O ,smart.home.set.color
+hộ mình khởi chạy bóng compact sang màu màu nâu, O O B-commandcommand I-commandcommand B-devicedevice I-devicedevice O O B-colorcolor I-colorcolor ,smart.home.set.color
+giúp mình thay đổi màu sắc của bóng rọi nha, O O O O O O O B-devicedevice I-devicedevice O ,smart.home.set.color
+bạn làm ơn thay bật màu sắc đèn âm trần giúp mình, O O O O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O O ,smart.home.set.color
+thay đổi bóng để bàn 4 sang vàng nhé, O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor O ,smart.home.set.color
+cài đặt hộ anh bóng trần 3 sang màu xanh với, B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O ,smart.home.set.color
+hộ mình bắt đầu downlight sang màu cam, O O B-commandcommand I-commandcommand B-devicedevice O O B-colorcolor ,smart.home.set.color
+thay đổi điều hòa sang xanh nhé, O O B-devicedevice I-devicedevice O B-colorcolor O ,smart.home.set.color
+bạn làm ơn thay kích hoạt màu sắc bóng trụ cổng thứ 2 giúp mình, O O O O B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O ,smart.home.set.color
+tắt cho tôi bình nước nóng thứ 4 ở nhà giữ đồ được không ạ, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O ,smart.home.device.onoff
+tắt cho tôi đèn màu thứ 4 phòng họp 3, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom ,smart.home.device.onoff
+bật màn cửa, B-commandcommand B-devicedevice I-devicedevice ,smart.home.device.onoff
+tắt cho tôi downlight nhà giữ đồ 3, B-commandcommand O O B-devicedevice B-roomroom I-roomroom I-roomroom I-roomroom ,smart.home.device.onoff
+bật đèn lồng thứ 2 ngoài phòng nghỉ ngơi lên, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O ,smart.home.device.onoff
+tắt giúp mình cái rèm cửa 2 ở nhà tắm, B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom ,smart.home.device.onoff
+tắt cho tôi đèn tròn thứ 2 phòng chờ 2, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom ,smart.home.device.onoff
+bật bật thiết bị device là ốp tường thứ 3 room là phòng nữ 2 và command là tắt, O B-commandcommand O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-roomroom I-roomroom I-roomroom O O O O ,smart.home.device.onoff
+bạn có thể bật nút ấn thứ 4 ở phòng giặt là 2 không, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O ,smart.home.device.onoff
+hi đèn huỳnh quang 3 sáng quá trợ lý ơi tắt nó đi giùm mình nha, O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O B-commandcommand O O O O O ,smart.home.device.onoff
+tắt giúp mình cái rèm đơn thứ 2 ở phòng ăn tối, B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom ,smart.home.device.onoff
+tắt cho tôi máy lạnh ở phòng hội thảo 1 được không ạ, B-commandcommand O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O O O ,smart.home.device.onoff
+bạn có thể bật bóng rủ thứ 4 ở nhà xe không, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O ,smart.home.device.onoff
+hi bóng sân thứ 3 sáng quá trợ lý ơi tắt nó đi giùm mình nha, O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O B-commandcommand O O O O O ,smart.home.device.onoff
+bạn có thể bật đèn hắt trần 2 ở phòng dành cho nam không, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O ,smart.home.device.onoff
+bật bật thiết bị device là tv thứ 4 room là phòng chung và command là tắt, O B-commandcommand O O O O B-devicedevice I-devicedevice I-devicedevice O O B-roomroom I-roomroom O O O O ,smart.home.device.onoff
+bạn có thể bật bóng tròn ở phòng học không, O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom O ,smart.home.device.onoff
+bật đèn hắt tường 2 ngoài phòng tắm 4 lên, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O ,smart.home.device.onoff
+tắt cho tôi chiết áp thứ 3 ở phòng gia đình được không ạ, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O ,smart.home.device.onoff
+tắt loa còi, B-commandcommand B-devicedevice I-devicedevice ,smart.home.device.onoff
+tắt cho tôi màn cửa đôi thứ 1 phòng chính, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom ,smart.home.device.onoff
+hi đèn trang trí sáng quá trợ lý ơi tắt nó đi giùm mình nha, O B-devicedevice I-devicedevice I-devicedevice O O O O O B-commandcommand O O O O O ,smart.home.device.onoff
+tôi muốn bật đèn để bàn ở phòng con nhỏ, O O B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom ,smart.home.device.onoff
+bật tắt thiết bị device là màn cửa room là phòng ăn 3 và command là tắt, O B-commandcommand O O O O B-devicedevice I-devicedevice O O B-roomroom I-roomroom I-roomroom O O O O ,smart.home.device.onoff
+tắt tv, B-commandcommand B-devicedevice ,smart.home.device.onoff
+tắt cho tôi bóng âm trần ở phòng sách 4 được không ạ, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O ,smart.home.device.onoff
+bật giúp mình cái van tưới 1 ở phòng dành cho nam, B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom ,smart.home.device.onoff
+tắt cho mình bóng trang trí ở phòng ăn tối 5, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom ,smart.home.device.onoff
+bật tv 2 ngoài phòng chính lên, B-commandcommand B-devicedevice I-devicedevice O B-roomroom I-roomroom O ,smart.home.device.onoff
+bật cho mình đèn ngủ 4 ở cửa hàng, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom ,smart.home.device.onoff
+tôi muốn bật đèn tường ở phòng ngủ, O O B-commandcommand B-devicedevice I-devicedevice O B-roomroom I-roomroom ,smart.home.device.onoff
+bật cho tôi bình nước nóng thứ 2 nhà vệ sinh, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom ,smart.home.device.onoff
+bật giúp mình cái bóng kiểng ở phòng thay đồ, B-commandcommand O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom ,smart.home.device.onoff
+tắt cho mình đèn hắt tường 4 ở phòng thu âm 3, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom ,smart.home.device.onoff
+bật cho tôi đèn tròn thứ 3 ở phòng sếp 4 được không ạ, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O ,smart.home.device.onoff
+bật bật thiết bị device là mành thứ 2 room là nhà để xe và command là tắt, O B-commandcommand O O O O B-devicedevice I-devicedevice I-devicedevice O O B-roomroom I-roomroom I-roomroom O O O O ,smart.home.device.onoff
+bật bật thiết bị device là đèn học 2 room là phòng nghiên cứu và command là tắt, O B-commandcommand O O O O B-devicedevice I-devicedevice I-devicedevice O O B-roomroom I-roomroom I-roomroom O O O O ,smart.home.device.onoff
+bật bóng học 2 ngoài bếp lên, B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-roomroom O ,smart.home.device.onoff
+tôi muốn bật rèm 1 ở phòng bố mẹ 2, O O B-commandcommand B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom ,smart.home.device.onoff
+bật quạt hút mùi, B-commandcommand B-devicedevice I-devicedevice I-devicedevice ,smart.home.device.onoff
+tôi muốn tắt đèn compact thứ 4 ở nhà tắm, O O B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom ,smart.home.device.onoff
+tôi muốn tắt mành đôi ở phòng đọc 4, O O B-commandcommand B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom ,smart.home.device.onoff
+tắt cho mình đèn ốp trần thứ 2 ở phòng trẻ em, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom ,smart.home.device.onoff
+bạn có thể bật bóng downlight ở phòng em bé 4 không, O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O ,smart.home.device.onoff
+giúp tôi đặt 9 phần trăm flash 4 nào, O O B-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage B-devicedevice I-devicedevice O ,smart.home.set.percentage
+mở đèn trụ cổng lên 66 phần trăm oke chưa, B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O O ,smart.home.set.percentage
+giúp tôi mở 40 phần trăm loa đài 1 nào, O O B-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice O ,smart.home.set.percentage
+chỉ đặt bóng trang trí 3 60 phần trăm thôi, O B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O ,smart.home.set.percentage
+bạn ơi mở cho mình cái bóng học 2, O O B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.set.percentage
+bạn đặt giúp mình bóng âm trần 4 ở sau vườn lên mức 46 phần trăm nhé, O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O ,smart.home.set.percentage
+bạn ơi mở cho mình cái đèn chùm, O O B-commandcommand O O O B-devicedevice I-devicedevice ,smart.home.device.onoff
+mở downlight 2 đến 34 phần trăm, B-commandcommand B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+bạn đặt giúp mình bóng vườn thứ 4 ở phong ngủ lên mức 18 phần trăm nhé, O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O ,smart.home.set.percentage
+cài đặt ti vi mức 56 phần trăm, B-commandcommand I-commandcommand B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+đóng quạt hút mùi mức 66 phần trăm, B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+giúp tôi cài đặt 55 phần trăm bóng vách thứ 3 nào, O O B-commandcommand I-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.set.percentage
+chỉ đặt đèn vườn thứ 1 46 phần trăm thôi, O B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O ,smart.home.set.percentage
+đèn downlight thứ 4 bật 50 phần trăm, B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+bạn ơi mở cho mình cái rèm cửa, O O B-commandcommand O O O B-devicedevice I-devicedevice ,smart.home.device.onoff
+đóng bình nóng lạnh 3 đến 84 phần trăm, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+chỉ đặt bóng led 80 phần trăm thôi, O B-commandcommand B-devicedevice I-devicedevice B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O ,smart.home.set.percentage
+tăng bóng ốp trần thứ 1 đến 38 phần trăm, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+bật quạt hút mùi thứ 2 mức 79 phần trăm, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+đặt bóng sưởi 1 lên 38 phần trăm oke chưa, B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O O ,smart.home.set.percentage
+bật động cơ lên 90 phần trăm oke chưa, B-commandcommand B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O O ,smart.home.set.percentage
+bạn đặt giúp mình bóng led thứ 4 ở sân sau 3 lên mức 81 phần trăm nhé, O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O ,smart.home.set.percentage
+đèn màu sắc bật 52 phần trăm, B-devicedevice I-devicedevice I-devicedevice B-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+bạn ơi đóng cho mình cái đèn làm việc 3, O O B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.device.onoff
+đặt downlight 4 lên 41 phần trăm oke chưa, B-commandcommand B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O O ,smart.home.set.percentage
+bật bóng vườn thứ 3 mức 1 phần trăm, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+chỉ bật đèn trần 4 81 phần trăm thôi, O B-commandcommand B-devicedevice I-devicedevice I-devicedevice B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O ,smart.home.set.percentage
+bạn ơi mở cho mình cái led 1, O O B-commandcommand O O O B-devicedevice I-devicedevice ,smart.home.device.onoff
+bạn bật giúp mình màn cửa đơn thứ 2 ở cơ quan lên mức 49 phần trăm nhé, O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O ,smart.home.set.percentage
+mở bóng trang trí 1 lên 70 phần trăm oke chưa, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O O ,smart.home.set.percentage
+giúp tôi đóng 73 phần trăm đèn hoa thứ 3 nào, O O B-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.set.percentage
+chỉ bật đèn cây thứ 1 62 phần trăm thôi, O B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O ,smart.home.set.percentage
+giúp tôi cài đặt 86 phần trăm bóng rọi thứ 1 nào, O O B-commandcommand I-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.set.percentage
+mở bóng trần thứ 3 đến 30 phần trăm, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+bạn bật giúp mình loa còi ở phòng bếp lên mức 99 phần trăm nhé, O B-commandcommand O O B-devicedevice I-devicedevice O B-roomroom I-roomroom O O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O ,smart.home.set.percentage
+đèn bàn đặt 40 phần trăm, B-devicedevice I-devicedevice B-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+đèn tròn mở 46 phần trăm, B-devicedevice I-devicedevice B-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+đóng tivi thứ 3 đến 40 phần trăm, B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+bạn ơi, O O ,greeting
+ê, O ,greeting
+tôi cần giúp nóng quá, O O O O O ,greeting
+trợ lý ơi ra đi, O O O O O ,greeting
+gấp thế chờ tí chờ tí, O O O O O O ,greeting
+hello assistant, O O ,greeting
+tăng giúp mình mức độ của ốp tường thứ 1 lên với, O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O ,smart.home.increase.percentage
+tôi muốn tăng đèn sắc màu thứ 3, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.percentage
+tôi muốn tăng đèn cảnh 3, O O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.percentage
+chòa bạn tôi muốn tăng mức độ của bóng ốp trần thứ 1, O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.percentage
+giúp mình tăng đèn vườn thứ 1 lên 2 phần trăm tại phòng ngủ bố mẹ tầng lầu thượng 4 nhé, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O B-roomroom I-roomroom I-roomroom I-roomroom O B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber O ,smart.home.increase.percentage
+tăng hộ mình điện 4 lên 9 phần trăm nhé, O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+chào bạn bạn tăng giúp mình bòng hắt trần thứ 4 lên 11 phần trăm nhé, O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+tăng tv lên 11 phần trăm bạn ơi, O B-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O O ,smart.home.increase.percentage
+tăng hộ mình bóng làm việc lên 11 phần trăm nhé, O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+giúp mình tăng quạt thông gió 3 lên 5 phần trăm tại cầu thang 3 tầng tầng trệt 3 nhé, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O B-roomroom I-roomroom I-roomroom O B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber O ,smart.home.increase.percentage
+chào bạn bạn tăng giúp mình flash 4 lên 14 phần trăm nhé, O O O O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+giúp mình tăng nóng lạnh thứ 4 lên 3 phần trăm tại đầu hè 5 tầng lầu 2 nhé, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O B-roomroom I-roomroom I-roomroom O B-floornumberfloornumber I-floornumberfloornumber O ,smart.home.increase.percentage
+bạn ơi chỗ mình tối quá giúp mình tăng đèn hắt trần thứ 3 lên 1 phần trăm nha, O O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+giúp mình tăng đèn bếp thứ 2 lên 11 phần trăm tại phòng con nhỏ tầng tầng thượng 8 nhé, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O B-roomroom I-roomroom I-roomroom O B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber O ,smart.home.increase.percentage
+chào bạn bạn tăng giúp mình cột đèn lên 24 phần trăm nhé, O O O O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+tôi muốn tăng bóng âm trần 2, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.percentage
+tôi muốn tăng flash thứ 3, O O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.percentage
+chào bạn bạn tăng giúp mình quạt hút mùi thứ 3 lên 14 phần trăm nhé, O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+tăng nút ấn thứ 4 lên 20 phần trăm bạn ơi, O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O O ,smart.home.increase.percentage
+bạn ơi chỗ mình tối quá giúp mình tăng đèn downlight thứ 1 lên 1 phần trăm nha, O O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+chào bạn bạn tăng giúp mình đèn sưởi lên 6 phần trăm nhé, O O O O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+chòa bạn tôi muốn tăng mức độ của loa đài, O O O O O O O O B-devicedevice I-devicedevice ,smart.home.increase.percentage
+tăng hộ mình van tưới thứ 2 lên 20 phần trăm nhé, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+tôi muốn tăng đèn quảng cáo 4, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.percentage
+bạn ơi chỗ mình tối quá giúp mình tăng đèn bàn lên 25 phần trăm nha, O O O O O O O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+tăng giúp mình mức độ của bình nước nóng thứ 3 lên với, O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O ,smart.home.increase.percentage
+tăng giúp mình mức độ của bình nước nóng 2 lên với, O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O ,smart.home.increase.percentage
+chòa bạn tôi muốn tăng mức độ của đèn compact, O O O O O O O O B-devicedevice I-devicedevice ,smart.home.increase.level
+tăng hộ mình chiết áp 2 lên 16 phần trăm nhé, O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+chòa bạn tôi muốn tăng mức độ của đèn làm việc, O O O O O O O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+chòa bạn tôi muốn tăng mức độ của ốp tường thứ 4, O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.percentage
+tăng đèn flash 4 lên 13 phần trăm bạn ơi, O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O O ,smart.home.increase.percentage
+tăng giúp mình mức độ của bóng tròn lên với, O O O O O O B-devicedevice I-devicedevice O O ,smart.home.increase.percentage
+tăng đèn tường lên 25 phần trăm bạn ơi, O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O O ,smart.home.increase.percentage
+tăng quạt treo tường lên 26 phần trăm bạn ơi, O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O O ,smart.home.increase.percentage
+tăng hộ mình bóng học 4 lên 15 phần trăm nhé, O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+tăng giúp mình mức độ của đèn chùm lên với, O O O O O O B-devicedevice I-devicedevice O O ,smart.home.increase.level
+bạn ơi chỗ mình tối quá giúp mình tăng chiết áp thứ 2 lên 20 phần trăm nha, O O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+bạn ơi chỗ mình tối quá giúp mình tăng bóng tường 2 lên 6 phần trăm nha, O O O O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O ,smart.home.increase.percentage
+giúp mình tăng hắt trần lên 23 phần trăm tại phòng thiền tầng lầu thượng 8 nhé, O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage O B-roomroom I-roomroom O B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber O ,smart.home.increase.percentage
+đặt hộ mình cái rèm cửa 1 để mình tắm cái, B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O O O O ,smart.home.set.level
+chỉnh hộ mình cái bóng hắt tường để mình tắm cái, B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O O O O ,smart.home.set.level
+chỉnh lại đèn thả thứ 1 ở mức 1, B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.set.level
+đặt hộ mình cái bình nước nóng để mình tắm cái, B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O O O O ,smart.home.set.level
+cài đặt ánh sáng phòng em bé 1 ở mức 5, B-commandcommand I-commandcommand O O B-roomroom I-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber ,smart.home.set.level
+chuyển hộ mình cái đèn ngủ 4 để mình tắm cái, B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O O O O ,smart.home.set.level
+đèn hắt mức 2, B-devicedevice I-devicedevice O B-final-valuesysnumber ,smart.home.set.level
+cài đặt hộ mình cái đèn học 2 để mình tắm cái, B-commandcommand I-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O O O O ,smart.home.set.level
+thay đổi bóng tuýp 4 ở mức 4, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.set.level
+làm ơn bật mành cuốn phòng thực hành ở mức 5, O O B-commandcommand B-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber ,smart.home.set.level
+đổi đèn hắt tường bên phòng dành cho nam giúp tôi, B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O O ,smart.home.set.level
+đổi ánh sáng phòng trẻ con ở mức 5, B-commandcommand O O B-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber ,smart.home.set.level
+thay máy lạnh ở mức 3, B-commandcommand B-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.set.level
+bật giúp mình thiết bị bóng tường 4, O O O O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.device.onoff
+bật đèn sợi đốt thứ 1 bên phòng em bé giúp tôi, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O ,smart.home.device.onoff
+đặt ánh sáng phòng họp gia đình ở mức 1, B-commandcommand O O B-roomroom I-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber ,smart.home.set.level
+đổi lại quạt hút mùi 1 ở mức 5, B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.set.level
+bật giúp mình thiết bị rèm cửa đôi 2, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.device.onoff
+điều chỉnh lại rèm cửa đôi thứ 3 ở mức 3, B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.set.level
+đèn tiết kiệm điện thứ 2 mức 1, B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesysnumber ,smart.home.set.level
+chỉnh ánh sáng phòng nghỉ ngơi ở mức 4, B-commandcommand O O B-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber ,smart.home.set.level
+thay đổi tv thứ 2 bên phòng bố mẹ 1 giúp tôi, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O O ,smart.home.set.level
+làm ơn thay loa còi phòng thay đồ 4 ở mức 1, O O B-commandcommand B-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber ,smart.home.set.level
+cài đặt downlight thứ 3 bên nhà tắm giúp tôi, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O ,smart.home.set.level
+đặt đèn cây ở mức 1, B-commandcommand B-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.set.level
+tv 4 mức 4, B-devicedevice I-devicedevice O B-final-valuesysnumber ,smart.home.set.level
+chuyển lại bóng ốp tường ở mức 5, B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.set.level
+loa đài 2 mức 5, B-devicedevice I-devicedevice I-devicedevice O B-final-valuesysnumber ,smart.home.set.level
+làm ơn đổi đèn cây thứ 2 phòng làm việc ở mức 1, O O B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber ,smart.home.set.level
+bật giúp mình thiết bị mành cuốn, O O O O O B-devicedevice I-devicedevice ,smart.home.device.onoff
+thay lại đèn ốp tường 2 ở mức 3, B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.set.level
+bóng kiểng mức 4, B-devicedevice I-devicedevice O B-final-valuesysnumber ,smart.home.set.level
+thay điều hòa ở mức 4, B-commandcommand B-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.set.level
+làm ơn bật đèn rọi 2 quầy lễ tân 2 ở mức 5, O O B-commandcommand B-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber ,smart.home.set.level
+chuyển đèn hắt ở mức 4, B-commandcommand B-devicedevice I-devicedevice O O B-final-valuesysnumber ,smart.home.set.level
+bật giúp mình thiết bị bóng compact, O O O O O B-devicedevice I-devicedevice ,smart.home.device.onoff
+đặt ánh sáng phòng cuối 4 ở mức 3, B-commandcommand O O B-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber ,smart.home.set.level
+làm ơn bật đèn sưởi phòng chung 1 ở mức 1, O O B-commandcommand B-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber ,smart.home.set.level
+chuyển đèn để bàn bên phòng chờ giúp tôi, B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O ,smart.home.set.level
+bật giúp mình thiết bị bóng vách thứ 4, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.device.onoff
+giúp mình kiểm tra đèn chùm ở phòng ông bà với nhé mình cảm ơn, O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O O O ,smart.home.check.status
+cái bóng chùm 2 ở gara 3 bị làm sao ý kiểm tra giúp mình với, O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O O O O O O O O ,smart.home.check.status
+kiểm tra tôi màn cửa đơn thứ 2 ở phòng ngủ các con 2 nhé số đấy bạn, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom I-roomroom O O O O ,smart.home.check.status
+giúp mình kiểm tra mành ở ban công 4 với nhé mình cảm ơn, O O O O B-devicedevice O B-roomroom I-roomroom I-roomroom O O O O O ,smart.home.check.status
+bạn giúp mình kiểm tra trạng thái của bóng làm việc thứ 4 ở hội trường nhé, O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O ,smart.home.check.status
+bạn kiểm tra giúp mình bóng ốp tường 1 với mình nghĩ nó có vấn đề, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O O O ,smart.home.check.status
+kiểm tra trạng thái của thiết bị rèm đơn thứ 3 ở phòng đọc 4 nhé, O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O ,smart.home.check.status
+kiểm tra giúp mình bóng âm trần thứ 3 với, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.check.status
+giúp mình kiểm tra đèn tường ở công ty 2 với nhé mình cảm ơn, O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O O O ,smart.home.check.status
+kiểm tra trạng thái của thiết bị đèn rọi 4 ở phòng ngủ nhé, O O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O ,smart.home.check.status
+bạn giúp mình kiểm tra trạng thái của âm thanh đa vùng 3 ở phòng nghỉ ngơi 1 nhé, O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O ,smart.home.check.status
+kiểm tra tôi công tắc ở phòng xông hơi nhé số đấy bạn, O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O O ,smart.home.check.status
+kiểm tra giúp mình đèn lồng 3 với, O O O O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.check.status
+giúp mình kiểm tra đèn cây ở phòng thờ 5 với nhé mình cảm ơn, O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O O O ,smart.home.check.status
+kiểm tra giúp mình đèn với, O O O O B-devicedevice O ,smart.home.check.status
+bạn kiểm tra giúp mình màn cửa thứ 1 với mình nghĩ nó có vấn đề, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O O O ,smart.home.check.status
+báo cáo bóng rủ thứ 1 hộ tôi với, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O ,smart.home.check.status
+bạn giúp mình kiểm tra trạng thái của downlight thứ 4 ở phòng nghỉ 4 nhé, O O O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O ,smart.home.check.status
+tôi muốn kiểm tra downlight, O O O O B-devicedevice ,smart.home.check.status
+bạn kiểm tra giúp mình màn cuốn thứ 3 với mình nghĩ nó có vấn đề, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O O O ,smart.home.check.status
+cho mình xem trạng thái của rgb 4 tại phòng gia đình 1, O O O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom ,smart.home.check.status
+cái van tưới 3 ở cơ quan 3 bị làm sao ý kiểm tra giúp mình với, O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O O O O O O O ,smart.home.check.status
+giúp mình kiểm tra hắt trần 2 ở phòng chính với nhé mình cảm ơn, O O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O O O O ,smart.home.check.status
+tôi muốn kiểm tra rèm cửa đôi, O O O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.check.status
+cho mình xem trạng thái của bình nước nóng thứ 1 tại gara, O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom ,smart.home.check.status
+kiểm tra trạng thái của thiết bị chiết áp ở nhà để xe nhé, O O O O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O ,smart.home.check.status
+mành đôi được mở chưa, B-devicedevice I-devicedevice B-statusstatus I-statusstatus O ,smart.home.check.status
+kiểm tra giúp mình đèn flash với, O O O O B-devicedevice I-devicedevice O ,smart.home.check.status
+bạn giúp mình kiểm tra trạng thái của đèn lồng ở phòng gia đình nhé, O O O O O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O ,smart.home.check.status
+kiểm tra trạng thái của thiết bị bóng rọi thứ 3 ở nhà giữ đồ 2 nhé, O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O ,smart.home.check.status
+cập nhật đèn compact thứ 3 hộ tôi với, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O ,smart.home.check.status
+đèn tiết kiệm điện được đóng chưa, B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-statusstatus I-statusstatus O ,smart.home.check.status
+cho mình xem trạng thái của đèn compact tại phòng tắm xông hơi, O O O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom ,smart.home.check.status
+bóng thả thứ 2 đang bật hoặc tắt chưa, B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-statusstatus I-statusstatus I-statusstatus I-statusstatus O ,smart.home.check.status
+cho mình xem trạng thái của bóng downlight tại hội trường 2, O O O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom ,smart.home.check.status
+kiểm tra tôi bóng âm trần ở phòng hội nghị nhé số đấy bạn, O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O O ,smart.home.check.status
+tôi muốn kiểm tra đèn màu sắc, O O O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.check.status
+bóng tuýp đã được mở chưa, B-devicedevice I-devicedevice B-statusstatus I-statusstatus I-statusstatus O ,smart.home.check.status
+tôi muốn kiểm tra bóng chùm 3, O O O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.check.status
+cái kịch bản thứ 2 ở phòng ăn bị làm sao ý kiểm tra giúp mình với, O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O O O O O O O O ,smart.home.check.status
+đèn compact 2 mở hoặc đóng chưa, B-devicedevice I-devicedevice I-devicedevice B-statusstatus I-statusstatus I-statusstatus O ,smart.home.check.status
+báo cáo bóng vườn thứ 2 hộ tôi với, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O ,smart.home.check.status
+kiểm tra giúp mình công tắc thứ 3 với, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.check.status
+kiểm tra trạng thái của thiết bị bóng ốp trần thứ 4 ở phòng thí nghiệm 3 nhé, O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O ,smart.home.check.status
+bạn kiểm tra giúp mình đèn làm việc thứ 3 với mình nghĩ nó có vấn đề, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O O O ,smart.home.check.status
+cái led thứ 2 ở cơ quan bị làm sao ý kiểm tra giúp mình với, O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O O O O O O O O ,smart.home.check.status
+tôi muốn kiểm tra đèn sắc màu thứ 3, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.check.status
+cái bóng làm việc thứ 1 ở hè 1 bị làm sao ý kiểm tra giúp mình với, O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O O O O O O O O ,smart.home.check.status
+bạn giúp mình kiểm tra trạng thái của đèn màu thứ 1 ở phòng ăn sáng 1 nhé, O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O ,smart.home.check.status
+cập nhật downlight hộ tôi với, B-commandcommand I-commandcommand B-devicedevice O O O ,smart.home.check.status
+kiểm tra tôi đèn ở sân 3 nhé số đấy bạn, O O O B-devicedevice O B-roomroom I-roomroom O O O O ,smart.home.check.status
+bạn kiểm tra giúp mình bóng trần thứ 3 với mình nghĩ nó có vấn đề, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O O O ,smart.home.check.status
+cho mình xem trạng thái của đèn kiểng tại phòng ủi, O O O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom ,smart.home.check.status
+giảm thiết bị điều hòa ở cổng, O O O B-devicedevice I-devicedevice O B-roomroom ,smart.home.decrease.percentage
+giảm thiết bị bóng sân thứ 2 ở mặt tiền, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom ,smart.home.decrease.percentage
+làm ơn hạ hộ bóng trần xuống 16 phần trăm, O O B-commandcommand O B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+giảm bớt tiếp tục led thứ 2 xuống 19 phần trăm, B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+làm ơn hạ xuống hộ bóng led thứ 3 xuống 24 phần trăm, O O B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+giảm bóng vách thứ 3 xuống 7 phần trăm, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+hạ xuống tiếp tục đèn compact 3 xuống 30 phần trăm, B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+giảm tất cả bóng tường thứ 2 đi 24 phần trăm, B-commandcommand B-allall I-allall B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+giảm thiết bị chiết áp 3 ở nhà xe, O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom ,smart.home.decrease.percentage
+ây tâm đang học bài ở phòng tắm 5 nhưng mà đèn hơi sáng phiền bạn giảm dùm mình xuống 1 chút nhé tầm 16 phần trăm đèn kiểng 2 nhé, O O O O O O B-roomroom I-roomroom I-roomroom O O O O O O O O O O O O O O O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice O ,smart.home.decrease.percentage
+giảm tiếp tục huỳnh quang xuống 50 phần trăm, B-commandcommand O O B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+hạ rèm xuống 44 phần trăm, B-commandcommand B-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+làm ơn giảm đi hộ rèm đơn 4 xuống 36 phần trăm, O O B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+giảm bớt ốp trần xuống 36 phần trăm, B-commandcommand I-commandcommand B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+ây tâm đang học bài ở phòng học nhưng mà đèn hơi sáng phiền bạn giảm dùm mình xuống 1 chút nhé tầm 12 phần trăm đèn sưởi thứ 1 nhé, O O O O O O B-roomroom I-roomroom O O O O O O O O O O O O O O O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.decrease.percentage
+giảm đi mỗi bóng sưởi 4 đi 23 phần trăm, B-commandcommand I-commandcommand B-allall B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+hạ xuống tất cả âm trần đi 4 phần trăm, B-commandcommand I-commandcommand B-allall I-allall B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+ây tâm đang học bài ở phòng vệ sinh nhưng mà đèn hơi sáng phiền bạn giảm dùm mình xuống 1 chút nhé tầm 20 phần trăm màn cửa đôi nhé, O O O O O O B-roomroom I-roomroom I-roomroom O O O O O O O O O O O O O O O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice O ,smart.home.decrease.percentage
+giảm tiếp tục đèn tiết kiệm điện xuống 2 phần trăm, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+hạ xuống flash thứ 4 xuống 15 phần trăm, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+giảm thiết bị đèn hắt tường 2 ở cửa hàng, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom ,smart.home.decrease.percentage
+giảm bớt mỗi ốp trần 3 đi 16 phần trăm, B-commandcommand I-commandcommand B-allall B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+hạ tất cả led 2 đi 18 phần trăm, B-commandcommand B-allall I-allall B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage ,smart.home.decrease.percentage
+ây tâm đang học bài ở phòng thu nhưng mà đèn hơi sáng phiền bạn giảm dùm mình xuống 1 chút nhé tầm 23 phần trăm đèn hắt trần 1 nhé, O O O O O O B-roomroom I-roomroom O O O O O O O O O O O O O O O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.decrease.percentage
+giảm tiếp tục đèn hoa thứ 2 xuống 27 phần trăm, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+ây tâm đang học bài ở hè sau 4 nhưng mà đèn hơi sáng phiền bạn giảm dùm mình xuống 1 chút nhé tầm 4 phần trăm bóng tường nhé, O O O O O O B-roomroom I-roomroom I-roomroom O O O O O O O O O O O O O O O B-change-valuesyspercentage I-change-valuesyspercentage I-change-valuesyspercentage B-devicedevice I-devicedevice O ,smart.home.decrease.percentage
+làm ơn hạ thấp hộ tv thứ 2 xuống 3 phần trăm, O O B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+giảm thiết bị rèm cửa đôi thứ 2 ở phòng dành cho nam, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom ,smart.home.decrease.percentage
+làm ơn hạ hộ đèn tròn thứ 3 xuống 42 phần trăm, O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.decrease.percentage
+cài đặt đèn trang trí lên mức 73 phần trăm hộ cái, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O O ,smart.home.set.percentage
+đóng đèn lồng thứ 4 lên mức 100 phần trăm hộ cái, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O O ,smart.home.set.percentage
+bật tv 4 ở 53 phần trăm, B-commandcommand B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+mở toàn bộ loa đài 2 ở mức 28 phần trăm, B-commandcommand B-allall I-allall B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+đóng đèn downlight 1 ở 22 phần trăm, B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+cài đặt mỗi kịch bản thứ 4 ở mức 75 phần trăm, B-commandcommand I-commandcommand B-allall B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+mở 38 phần trăm rèm cửa phòng ủi 5, B-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage B-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom ,smart.home.set.percentage
+cài đặt âm trần thứ 4 phong ngủ 13 phần trăm, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+mở cột đèn thứ 1 ở 94 phần trăm, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+mình muốn đặt đèn rọi, O O B-commandcommand B-devicedevice I-devicedevice ,smart.home.set.percentage
+bật bóng ốp tường lên mức 69 phần trăm hộ cái, B-commandcommand B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O O ,smart.home.set.percentage
+đặt toàn bộ bóng hắt thứ 4 ở mức 87 phần trăm, B-commandcommand B-allall I-allall B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+hãy mở giúp tôi đèn để bàn 2 trong phòng bếp, O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom ,smart.home.device.onoff
+đặt cột đèn thứ 4 hiên sau 2 50 phần trăm, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+cài đặt đèn compact thứ 1 vườn sau 50 phần trăm, B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+mình muốn đóng chiết áp, O O B-commandcommand B-devicedevice I-devicedevice ,smart.home.device.onoff
+bật 97 phần trăm màn cửa 4 nhà bếp, B-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom ,smart.home.set.percentage
+đặt tvs ở 8 phần trăm, B-commandcommand B-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+bật bóng hắt thứ 3 lên mức 82 phần trăm hộ cái, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O O ,smart.home.set.percentage
+đặt quạt hút mùi 3 ở 63 phần trăm, B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+mở tất cả mành đôi ở mức 3 phần trăm, B-commandcommand B-allall I-allall B-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+mở toàn bộ bòng hắt trần thứ 1 ở mức 26 phần trăm, B-commandcommand B-allall I-allall B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage ,smart.home.set.percentage
+mình muốn cài đặt đèn hắt trần thứ 2, O O B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.set.percentage
+bật 52 phần trăm đèn trần 3 đại sảnh 5, B-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom ,smart.home.set.percentage
+đóng 99 phần trăm bóng trần hè sau, B-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage B-devicedevice I-devicedevice B-roomroom I-roomroom ,smart.home.set.percentage
+hãy bật giúp tôi van tưới 4 trong phòng em bé, O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom ,smart.home.set.percentage
+hãy đặt giúp tôi rèm đơn 2 trong sau vườn, O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom ,smart.home.set.percentage
+hãy đóng giúp tôi mành trong phòng đọc 5, O B-commandcommand O O B-devicedevice O B-roomroom I-roomroom I-roomroom ,smart.home.device.onoff
+bật rgb 2 lên mức 70 phần trăm hộ cái, B-commandcommand B-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage I-final-valuesyspercentage O O ,smart.home.set.percentage
+mình muốn cài đặt bóng ốp tường 3, O O B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.set.percentage
+cậu đổi cho tớ bóng sưởi sang violet nhé, O O O O B-devicedevice I-devicedevice O B-colorcolor O ,smart.home.set.color
+bạn thay đèn cây thứ 4 thành màu đen cho mình nhé, O B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O O O ,smart.home.set.color
+thiết lập màu tía của màn cửa đôi thứ 3 phòng giám đốc 1 tầng thượng 6, B-commandcommand I-commandcommand B-colorcolor I-colorcolor O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom I-roomroom B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber ,smart.home.set.color
+đang hơi buồn thay đổi cho tôi đèn bếp 3 sang màu màu trắng đi, O O O B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O O B-colorcolor I-colorcolor O ,smart.home.set.color
+đang hơi buồn command cho tôi đèn hoa 3 sang màu nâu đi, O O O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O O B-colorcolor O ,smart.home.set.color
+làm ơn đổi màu bóng trần thứ 4 thành cam, O O B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor ,smart.home.set.color
+làm ơn kích hoạt hắt trần thành xanh nước biển, O O B-commandcommand I-commandcommand B-devicedevice I-devicedevice O B-colorcolor I-colorcolor I-colorcolor ,smart.home.set.color
+bạn ưi tôi muốn chế độ thiết bị ốp trần 2 thành hồng, O O O O B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor ,smart.home.set.color
+em chỉnh màu đèn tròn thứ 4 sang đen nhé, O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor O ,smart.home.set.color
+em bật màu đèn trần 4 sang màu xanh nhé, O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O ,smart.home.set.color
+làm ơn chế độ bóng thả 1 thành lục, O O B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-colorcolor ,smart.home.set.color
+bạn ưi tôi muốn chế độ thiết bị ti vi thành màu hồng, O O O O B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice O B-colorcolor I-colorcolor ,smart.home.set.color
+cậu đổi cho tớ bóng ngủ thứ 4 sang xanh lá nhé, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O ,smart.home.set.color
+bạn điều chỉnh bóng hoa 1 thành màu vàng cho mình nhé, O B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O O O ,smart.home.set.color
+cậu đổi cho tớ đèn màu 2 sang màu nâu nhé, O O O O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O ,smart.home.set.color
+em thiết lập màu đèn hắt tường 2 sang xanh nhé, O B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor O ,smart.home.set.color
+em thiết lập màu đèn hoa thứ 2 sang màu trắng nhé, O B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O ,smart.home.set.color
+đèn kiểng command màu vàng, B-devicedevice I-devicedevice B-commandcommand O B-colorcolor ,smart.home.set.color
+ok luôn bạn ơi đặt màu đèn để bàn hộ tôi với, O O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O O O ,smart.home.set.color
+ok luôn bạn ơi đổi màu màu bóng trụ cổng thứ 2 hộ tôi với, O O O O B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O ,smart.home.set.color
+làm ơn chế độ kịch bản 4 thành màu tía, O O B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor ,smart.home.set.color
+ok luôn bạn ơi command màu huỳnh quang hộ tôi với, O O O O B-commandcommand O B-devicedevice I-devicedevice O O O ,smart.home.set.color
+thiết lập đen của đèn kiểng 4 phòng dành cho nữ tầng trệt 2, B-commandcommand I-commandcommand B-colorcolor O B-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom I-roomroom B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber ,smart.home.set.color
+đang hơi buồn đổi màu sắc cho tôi bóng downlight sang màu màu nâu đi, O O O B-commandcommand I-commandcommand I-commandcommand O O B-devicedevice I-devicedevice O O B-colorcolor I-colorcolor O ,smart.home.set.color
+bạn ưi tôi muốn thay đổi màu sắc thiết bị đèn màu 3 thành xanh, O O O O B-commandcommand I-commandcommand I-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor ,smart.home.set.color
+đang hơi buồn chuyển cho tôi màn cửa đơn 1 sang màu hồng đi, O O O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-colorcolor O ,smart.home.set.color
+làm ơn đổi màu ti vi thành xanh lá, O O B-commandcommand I-commandcommand B-devicedevice I-devicedevice O B-colorcolor I-colorcolor ,smart.home.set.color
+chế độ cam của đèn huỳnh quang 1 sân trước 1 floornumber, B-commandcommand I-commandcommand B-colorcolor O B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom B-floornumberfloornumber ,smart.home.set.color
+cậu đổi cho tớ đèn sợi đốt thứ 2 sang xanh nước biển nhé, O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor I-colorcolor O ,smart.home.set.color
+đèn hoa 3 đổi màu màu đen, B-devicedevice I-devicedevice I-devicedevice B-commandcommand O B-colorcolor I-colorcolor ,smart.home.set.color
+bạn chuyển bòng hắt trần thành màu hồng cho mình nhé, O B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O O O ,smart.home.set.color
+bóng tròn thứ 2 chạy màu violet, B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-commandcommand O B-colorcolor ,smart.home.set.color
+bạn ưi tôi muốn đổi màu thiết bị đèn quảng cáo 2 thành lục, O O O O B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor ,smart.home.set.color
+nóng lạnh thứ 4 chuyển màu nâu, B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-commandcommand O B-colorcolor ,smart.home.set.color
+cậu đổi cho tớ đèn âm trần sang màu xanh lam nhé, O O O O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor I-colorcolor O ,smart.home.set.color
+ok luôn bạn ơi đổi màu màu đèn cảnh 1 hộ tôi với, O O O O B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice O O O ,smart.home.set.color
+ok luôn bạn ơi điều chỉnh màu âm trần thứ 4 hộ tôi với, O O O O B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O ,smart.home.set.color
+đang hơi buồn chuyển cho tôi đèn bếp 2 sang màu màu xanh đi, O O O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O O B-colorcolor I-colorcolor O ,smart.home.set.color
+đèn sân 2 thay đổi màu sắc màu violet, B-devicedevice I-devicedevice I-devicedevice B-commandcommand I-commandcommand I-commandcommand I-commandcommand O B-colorcolor ,smart.home.set.color
+em command màu mành thứ 1 sang màu nâu nhé, O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O ,smart.home.set.color
+bạn ưi tôi muốn cài đặt thiết bị rèm cửa đôi 1 thành xanh nước biển, O O O O B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor I-colorcolor ,smart.home.set.color
+bạn command bóng thả thành xanh cho mình nhé, O B-commandcommand B-devicedevice I-devicedevice O B-colorcolor O O O ,smart.home.set.color
+giúp mình giảm flash xuống mức 4 nhé, O O O B-devicedevice O O B-sysnumbersysnumber O ,smart.home.decrease.level
+giảm led 3, O B-devicedevice I-devicedevice ,smart.home.decrease.level
+bạn ơi mình muốn giảm bóng vườn 4, O O O O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.decrease.level
+bạn ơi mình muốn giảm chiết áp thứ 4, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.decrease.level
+giúp mình giảm bình nóng lạnh 1 xuống mức 1 nhé, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O ,smart.home.decrease.level
+bạn ơi mình muốn giảm tvs, O O O O O B-devicedevice ,smart.home.decrease.level
+mình muốn giảm bóng trụ cổng 1, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.decrease.level
+giảm giúp mình bóng led, O O O B-devicedevice I-devicedevice ,smart.home.decrease.level
+giảm cho mình vô tuyến với, O O O B-devicedevice I-devicedevice O ,smart.home.decrease.level
+bạn ơi mình muốn giảm âm trần 4, O O O O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.decrease.level
+giúp mình giảm nóng lạnh xuống mức 1 nhé, O O O B-devicedevice I-devicedevice O O B-sysnumbersysnumber O ,smart.home.decrease.level
+giảm giúp mình tivi, O O O B-devicedevice ,smart.home.decrease.level
+giảm bóng vườn thứ 3, O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.decrease.level
+mình muốn giảm bóng chùm, O O O B-devicedevice I-devicedevice ,smart.home.decrease.level
+giảm màn cửa, O B-devicedevice I-devicedevice ,smart.home.decrease.level
+giúp mình giảm bóng kiểng xuống mức 5 nhé, O O O B-devicedevice I-devicedevice O O B-sysnumbersysnumber O ,smart.home.decrease.level
+giúp tôi giảm độ sáng phòng hội thảo 4 xuống mức 1, O O B-commandcommand O O B-roomroom I-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber ,smart.home.decrease.level
+giảm cho mình rèm 1 với, O O O B-devicedevice I-devicedevice O ,smart.home.decrease.level
+giúp tôi giảm bớt độ sáng phòng hội thảo xuống mức 3, O O B-commandcommand I-commandcommand O O B-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber ,smart.home.decrease.level
+giảm cho mình bóng tròn 2 với, O O O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.decrease.level
+giảm giúp mình động cơ, O O O B-devicedevice I-devicedevice ,smart.home.decrease.level
+giảm giúp mình bóng tiết kiệm điện 1, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.decrease.level
+mình muốn giảm loa còi, O O O B-devicedevice I-devicedevice ,smart.home.decrease.level
+giảm cho mình tivi thứ 3 với, O O O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.decrease.level
+giúp tôi hạ độ sáng wc 5 xuống mức 1, O O B-commandcommand O O B-roomroom I-roomroom O O B-final-valuesysnumber ,smart.home.decrease.level
+giảm bóng led, O B-devicedevice I-devicedevice ,smart.home.decrease.level
+giúp tôi giảm bớt độ sáng phòng ngủ con 2 xuống mức 2, O O B-commandcommand I-commandcommand O O B-roomroom I-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber ,smart.home.decrease.level
+giảm đèn vườn thứ 4, O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.decrease.level
+giúp tôi giảm độ sáng sân trước xuống mức 1, O O B-commandcommand O O B-roomroom I-roomroom O O B-final-valuesysnumber ,smart.home.decrease.level
+bạn ơi mình muốn giảm bóng ngủ thứ 4, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.decrease.level
+giảm cho mình flash 3 với, O O O B-devicedevice I-devicedevice O ,smart.home.decrease.level
+mình muốn giảm đèn đứng 2, O O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.decrease.level
+giảm giúp mình đèn kiểng thứ 2, O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.decrease.level
+giúp mình giảm đèn lồng xuống mức 5 nhé, O O O B-devicedevice I-devicedevice O O B-sysnumbersysnumber O ,smart.home.decrease.level
+tăng mức độ của thiết bị theo cấp độ đèn âm trần lên 3 ở phòng khách giúp mình nhé, O O O O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O B-roomroom I-roomroom O O O ,smart.home.increase.level
+hãy tăng hắt tường, O O B-devicedevice I-devicedevice ,smart.home.increase.level
+trợ lí đáng yêu tăng cho ta kịch bản 3, O O O O O O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+đèn hoa tăng đến lên mức 5, B-devicedevice I-devicedevice B-commandcommand I-commandcommand O O B-final-valuesysnumber ,smart.home.increase.level
+hãy tăng đèn làm việc 3, O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+trợ lý ơi tăng cho mình cái đèn tuýp 1 lên mức 5 nhé, O O O O O O O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O ,smart.home.increase.level
+bạn tăng giúp mình độ sáng cảnh thứ 2 nhé, O O O O O O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.increase.level
+tôi muốn tắng mức độ đèn trụ cổng lên mức 5 ở phòng giặt là cảm ơn trợ lý, O O O O O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom O O O O ,smart.home.increase.level
+bạn tăng giúp mình độ sáng đèn màu sắc nhé, O O O O O O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.increase.level
+đèn làm việc tăng lên lên mức 4, B-devicedevice I-devicedevice I-devicedevice B-commandcommand I-commandcommand O O B-final-valuesysnumber ,smart.home.increase.level
+hãy tăng đèn huỳnh quang 2, O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+trợ lý ơi tăng cho mình cái bình nước nóng 2 lên mức 3 nhé, O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O ,smart.home.increase.level
+hãy tăng đèn ốp tường 3, O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+tăng mức độ của thiết bị theo cấp độ bóng tròn lên 5 ở phòng chung giúp mình nhé, O O O O O O O O O B-devicedevice I-devicedevice O B-sysnumbersysnumber O B-roomroom I-roomroom O O O ,smart.home.increase.level
+chào bạn tăng giúp mình độ sáng của bóng compact 1 lên 2 nhé, O O O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O ,smart.home.increase.level
+trợ lý ơi tăng cho mình cái bóng trần 1 lên mức 4 nhé, O O O O O O O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O ,smart.home.increase.level
+chào bạn tăng giúp mình độ sáng của đèn hắt 4 lên 4 nhé, O O O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O ,smart.home.increase.level
+chào bạn bóng compact trong lễ tân bạn tăng nó lên giúp mình được không, O O B-devicedevice I-devicedevice O B-roomroom I-roomroom O O O O O O O O ,smart.home.increase.level
+bóng thả tăng lên mức 4, B-devicedevice I-devicedevice B-commandcommand O O B-final-valuesysnumber ,smart.home.increase.level
+trợ lí đáng yêu tăng cho ta bóng để bàn 3, O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+bạn tăng giúp mình độ sáng tivi thứ 2 nhé, O O O O O O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.increase.level
+chào bạn đèn tròn trong mặt tiền 1 bạn tăng nó lên giúp mình được không, O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O O O O O O ,smart.home.increase.level
+chào bạn màn cửa 4 trong phòng ngủ bố mẹ 1 bạn tăng nó lên giúp mình được không, O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom I-roomroom O O O O O O O O ,smart.home.increase.level
+tôi muốn tắng mức độ đèn hắt trần 1 lên mức 5 ở phòng ăn tối 2 cảm ơn trợ lý, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom I-roomroom O O O O ,smart.home.increase.level
+bạn tăng giúp mình độ sáng quạt hút mùi nhé, O O O O O O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.increase.level
+bóng học 3 tăng thêm lên mức 3, B-devicedevice I-devicedevice I-devicedevice B-commandcommand I-commandcommand O O B-final-valuesysnumber ,smart.home.increase.level
+tăng mức độ của thiết bị theo cấp độ đèn rủ thứ 3 lên 5 ở phòng ăn sáng 2 giúp mình nhé, O O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom I-roomroom O O O ,smart.home.increase.level
+bạn tăng giúp mình độ sáng bóng trang trí nhé, O O O O O O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.increase.level
+trợ lí đáng yêu tăng cho ta rgb thứ 1, O O O O O O O B-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+trợ lý ơi tăng cho mình cái bóng âm trần lên mức 2 nhé, O O O O O O O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O ,smart.home.increase.level
+tăng mức độ của thiết bị theo cấp độ đèn làm việc thứ 4 lên 3 ở phòng tiếp đón 4 giúp mình nhé, O O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom I-roomroom O O O ,smart.home.increase.level
+tôi muốn tắng mức độ quạt thông gió 2 lên mức 3 ở phòng số 5 cảm ơn trợ lý, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom O O O O ,smart.home.increase.level
+hãy tăng đèn tiết kiệm điện thứ 4, O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice ,smart.home.increase.level
+tăng mức độ của thiết bị theo cấp độ đèn ngủ 3 lên 5 ở phòng thu âm 2 giúp mình nhé, O O O O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom I-roomroom O O O ,smart.home.increase.level
+trợ lí đáng yêu tăng cho ta flash, O O O O O O O B-devicedevice ,smart.home.increase.level
+chào bạn bóng sưởi trong phòng ngủ các con bạn tăng nó lên giúp mình được không, O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O O O O O O O O ,smart.home.increase.level
+trợ lý ơi tăng cho mình cái hắt trần 1 lên mức 5 nhé, O O O O O O O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O ,smart.home.increase.level
+chào bạn tăng giúp mình độ sáng của cột đèn lên 3 nhé, O O O O O O O O B-devicedevice I-devicedevice O B-sysnumbersysnumber O ,smart.home.increase.level
+chào bạn tăng giúp mình độ sáng của bóng trang trí 4 lên 3 nhé, O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O ,smart.home.increase.level
+trợ lí đáng yêu tăng cho ta downlight 1, O O O O O O O B-devicedevice I-devicedevice ,smart.home.increase.level
+tôi muốn tắng mức độ cảnh thứ 4 lên mức 2 ở công ty 5 cảm ơn trợ lý, O O O O O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom O O O O ,smart.home.increase.level
+chào bạn đèn trụ cổng trong phòng vệ sinh bạn tăng nó lên giúp mình được không, O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O O O O O O ,smart.home.increase.level
+tôi muốn tắng mức độ bóng trụ cổng thứ 4 lên mức 5 ở phòng giặt ủi 4 cảm ơn trợ lý, O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom I-roomroom O O O O ,smart.home.increase.level
+màn cửa tăng lên mức 5, B-devicedevice I-devicedevice B-commandcommand O O B-final-valuesysnumber ,smart.home.increase.level
+chào bạn tăng giúp mình độ sáng của đèn ốp trần thứ 4 lên 5 nhé, O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O ,smart.home.increase.level
+bật cho chủ nhân bóng hoa thứ 1 đê, B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.device.onoff
+tắt giúp tôi bóng tròn thứ 3 nhé, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.device.onoff
+tắt giúp tôi đèn cổng 2 nhé, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.device.onoff
+tắt cho anh bóng ngủ 3 với, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.device.onoff
+bạn ơi tắt hộ mình cái đèn cảnh với, O O B-commandcommand O O O O O O ,smart.home.device.onoff
+bật cho chủ nhân bóng tuýp đê, B-commandcommand O O O B-devicedevice I-devicedevice O ,smart.home.device.onoff
+bật giúp tôi màn cửa đơn 2 nhé, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.device.onoff
+bạn giúp tôi bật cái đèn để bàn thứ 3 nhé, O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.device.onoff
+bạn ơi bật hộ mình cái đèn cảnh với, O O B-commandcommand O O O O O O ,smart.home.device.onoff
+bật cho anh đèn kiểng thứ 3 với, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.device.onoff
+yêu cầu em tắt cái đèn ốp trần thứ 1 ở phòng họp 2 ngay lập tức nhanh nhé, O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O O O ,smart.home.device.onoff
+yêu cầu em bật cái mành thứ 4 ở phòng nữ 3 ngay lập tức nhanh nhé, O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O O O ,smart.home.device.onoff
+bật cho chủ nhân downlight 2 đê, B-commandcommand O O O B-devicedevice I-devicedevice O ,smart.home.device.onoff
+bạn giúp tôi tắt cái bóng huỳnh quang thứ 2 nhé, O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.device.onoff
+tắt cho chủ nhân đèn sân 2 đê, B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.device.onoff
+yêu cầu em bật cái đèn màu thứ 4 ở bếp ngay lập tức nhanh nhé, O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom O O O O O ,smart.home.device.onoff
+bật cho chủ nhân bóng tường đê, B-commandcommand O O O B-devicedevice I-devicedevice O ,smart.home.device.onoff
+bạn giúp tôi tắt cái đèn đứng 2 nhé, O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.device.onoff
+yêu cầu em tắt cái mành 1 ở wc ngay lập tức nhanh nhé, O O O B-commandcommand O B-devicedevice I-devicedevice O B-roomroom O O O O O ,smart.home.device.onoff
+bật giúp tôi điện 3 nhé, B-commandcommand O O B-devicedevice I-devicedevice O ,smart.home.device.onoff
+bật giúp tôi đèn downlight thứ 1 nhé, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.device.onoff
+tắt cho anh vô tuyến với, B-commandcommand O O B-devicedevice I-devicedevice O ,smart.home.device.onoff
+bật cho anh bóng compact 4 với, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.device.onoff
+bật cho anh nút ấn thứ 2 với, B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O ,smart.home.device.onoff
+bạn giúp tôi bật cái bóng hoa 3 nhé, O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.device.onoff
+bạn giúp tôi bật cái đèn lồng 4 nhé, O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O ,smart.home.device.onoff
+yêu cầu em tắt cái đèn để bàn 3 ở phòng em nhỏ ngay lập tức nhanh nhé, O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O O O ,smart.home.device.onoff
+alo trợ lí có đó không, O O O O O O ,greeting
+trợ lý đâu rồi, O O O O ,greeting
+trợ lý có đó không, O O O O O ,greeting
+em ơi, O O ,greeting
+bạn trợ lý ơi hỗ trợ mình với, O O O O O O O O ,greeting
+hello my trợ lí ảo, O O O O O ,greeting
